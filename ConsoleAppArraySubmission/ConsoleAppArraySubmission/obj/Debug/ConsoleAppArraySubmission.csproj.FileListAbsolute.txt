@@ -1,0 +1,7 @@
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\ConsoleAppArraySubmission.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\ConsoleAppArraySubmission.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\ConsoleAppArraySubmission.exe.config
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\ConsoleAppArraySubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\ConsoleAppArraySubmission.pdb
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\ConsoleAppArraySubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\ConsoleAppArraySubmission.pdb
