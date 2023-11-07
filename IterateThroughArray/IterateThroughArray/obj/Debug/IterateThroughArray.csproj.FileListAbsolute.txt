@@ -1,7 +1,0 @@
-C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\IterateThroughArray\IterateThroughArray\bin\Debug\IterateThroughArray.exe.config
-C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\IterateThroughArray\IterateThroughArray\bin\Debug\IterateThroughArray.exe
-C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\IterateThroughArray\IterateThroughArray\bin\Debug\IterateThroughArray.pdb
-C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.csproj.AssemblyReference.cache
-C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.csproj.CoreCompileInputs.cache
-C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.exe
-C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\IterateThroughArray\IterateThroughArray\obj\Debug\IterateThroughArray.pdb
