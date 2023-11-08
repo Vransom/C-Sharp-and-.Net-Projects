@@ -1,0 +1,7 @@
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\StringsAndIntegersSubmission.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\StringsAndIntegersSubmission.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\StringsAndIntegersSubmission.exe.config
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\StringsAndIntegersSubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\bin\Debug\StringsAndIntegersSubmission.pdb
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\StringsAndIntegersSubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StringsAndIntegersSubmission\StringsAndIntegersSubmission\obj\Debug\StringsAndIntegersSubmission.pdb
