@@ -1,0 +1,7 @@
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.exe.config
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.pdb
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\AbstractClassSubmission\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.pdb
