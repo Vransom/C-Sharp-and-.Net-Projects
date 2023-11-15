@@ -1,0 +1,7 @@
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.exe.config
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.pdb
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.pdb
