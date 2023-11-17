@@ -1,0 +1,135 @@
+Here are the logs:
+Four of Hearts
+
+Three of Clubs
+
+Ace of Diamonds
+
+Queen of Diamonds
+
+King of Clubs
+
+Nine of Clubs
+
+11/16/2023 5:11:49 PM
+Nine of Clubs
+
+11/16/2023 5:11:49 PM
+Three of Clubs
+
+11/16/2023 5:11:49 PM
+Ten of Spades
+
+11/16/2023 5:11:49 PM
+King of Clubs
+
+11/16/2023 5:11:51 PM
+Nine of Diamonds
+
+11/17/2023 11:11:07 AM
+Nine of Hearts
+
+11/17/2023 11:11:07 AM
+Queen of Clubs
+
+11/17/2023 11:11:07 AM
+Jack of Hearts
+
+11/17/2023 11:11:07 AM
+Seven of Diamonds
+
+11/17/2023 11:11:10 AM
+King of Diamonds
+
+fda79835-f135-4a82-9fec-8e1bf2753de0
+11/17/2023 11:28:07 AM
+Nine of Clubs
+
+11/17/2023 11:28:07 AM
+Five of Hearts
+
+11/17/2023 11:28:07 AM
+Five of Diamonds
+
+11/17/2023 11:28:07 AM
+Eight of Hearts
+
+11/17/2023 11:28:09 AM
+Ten of Spades
+
+a5aba4fd-b708-4795-95e0-4f7f9ff40198
+0b6877e0-185f-4de6-a0a5-9c8f01173494
+11/17/2023 12:10:19 PM
+Queen of Spades
+
+11/17/2023 12:10:19 PM
+Ten of Spades
+
+11/17/2023 12:10:19 PM
+Jack of Spades
+
+11/17/2023 12:10:19 PM
+Four of Spades
+
+b769f268-a910-41bc-985f-0185fae4d8ba
+11/17/2023 12:11:10 PM
+Seven of Spades
+
+11/17/2023 12:11:10 PM
+Jack of Clubs
+
+11/17/2023 12:11:10 PM
+Three of Diamonds
+
+11/17/2023 12:11:10 PM
+Ace of Hearts
+
+11/17/2023 12:11:10 PM
+King of Clubs
+
+11/17/2023 12:11:10 PM
+King of Hearts
+
+11/17/2023 12:11:10 PM
+Seven of Hearts
+
+11/17/2023 12:11:10 PM
+Four of Diamonds
+
+251c99e6-2ea0-4acd-a8be-51b7c0cee082
+11/17/2023 12:11:34 PM
+Four of Clubs
+
+11/17/2023 12:11:34 PM
+Jack of Diamonds
+
+11/17/2023 12:11:34 PM
+Ten of Clubs
+
+11/17/2023 12:11:34 PM
+Two of Diamonds
+
+51cfe1a3-1eb8-405c-bb31-6eac5db87585
+11/17/2023 12:15:26 PM
+Seven of Spades
+
+11/17/2023 12:15:26 PM
+Five of Clubs
+
+11/17/2023 12:15:26 PM
+Six of Diamonds
+
+11/17/2023 12:15:26 PM
+Ten of Spades
+
+11/17/2023 12:15:27 PM
+Ace of Hearts
+
+11/17/2023 12:15:29 PM
+King of Spades
+
+d57533a4-047f-4cb3-af2d-d41f62d693ab
+23bd1853-bb6a-4dee-90d2-ac1b7934e30a
+f71aa18d-6b7c-4cbe-bbe9-297a5be49b71
+7f95ecab-d9a7-457d-86c4-c88f2126a3b2
+10c177f3-269c-4c67-9b36-f395d127fa88
