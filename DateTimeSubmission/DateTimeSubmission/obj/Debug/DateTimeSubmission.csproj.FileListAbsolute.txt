@@ -1,0 +1,7 @@
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\bin\Debug\DateTimeSubmission.exe.config
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\bin\Debug\DateTimeSubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\bin\Debug\DateTimeSubmission.pdb
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\DateTimeSubmission\DateTimeSubmission\obj\Debug\DateTimeSubmission.pdb
