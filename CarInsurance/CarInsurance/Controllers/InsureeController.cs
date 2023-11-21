@@ -50,6 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = MakeQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -124,11 +125,10 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
-        public ActionResult MakeQuote(int Id)
+        public Decimal MakeQuote(Insuree insuree)
         {
             using (InsuranceEntities db = new InsuranceEntities())
             {
-                var insuree = db.Insurees.Find(Id);
                 var dateOfBirth = insuree.DateOfBirth;
                 var carYear = insuree.CarYear;
                 var carModel = insuree.CarModel;
@@ -137,7 +137,7 @@ namespace CarInsurance.Controllers
                 var dui = insuree.DUI;
                 var coverageType = insuree.CoverageType;
 
-                var quote = 50.0M;
+                decimal quote = 50.0M;
 
                 if (dateOfBirth.Year >= 2003)
                 {
@@ -175,18 +175,18 @@ namespace CarInsurance.Controllers
 
                 if (dui == true)
                 {
-                    quote = quote + (quote / 4.0M);
+                    quote = quote + (quote * .25M);
                 }
 
                 if (coverageType == true)
                 {
-                    quote = quote + (quote / 2.0M);
+                    quote = quote + (quote * .5M);
                 }
-                insuree.Quote = quote;
-                db.SaveChanges();
 
+                return (quote);
             }
-            return View("Index");
+
         }
+       
     }
 }
