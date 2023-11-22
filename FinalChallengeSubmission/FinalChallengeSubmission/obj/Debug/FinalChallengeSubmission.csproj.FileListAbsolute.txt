@@ -1,0 +1,12 @@
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\FinalChallengeSubmission.exe.config
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\FinalChallengeSubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\FinalChallengeSubmission.pdb
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.dll
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.xml
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.csproj.CopyComplete
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.exe
+C:\Users\victo\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\FinalChallengeSubmission\FinalChallengeSubmission\obj\Debug\FinalChallengeSubmission.pdb
