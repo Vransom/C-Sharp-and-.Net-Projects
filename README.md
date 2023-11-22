@@ -5,7 +5,7 @@ These are some small projects I made using C# and .NET Framework
 <h1>Projects</h1>
   <p><ul>
     <li><a href="https://github.com/Vransom/C-Sharp-and-.Net-Projects/tree/main/CarInsurance">Car Insurance</a></li>
-    <li><a href="https://github.com/Vransom/C-Sharp-and-.Net-Projects/tree/main/TwentyOne>Twenty-One</a></li>
+    <li><a href="https://github.com/Vransom/C-Sharp-and-.Net-Projects/tree/main/TwentyOne">Twenty-One</a></li>
     <li><a href="https://github.com/Vransom/C-Sharp-and-.Net-Projects/tree/main/FinalChallengeSubmission">Code-First</li>
   </ul></p>
 
