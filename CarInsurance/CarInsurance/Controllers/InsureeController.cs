@@ -127,8 +127,6 @@ namespace CarInsurance.Controllers
 
         public Decimal MakeQuote(Insuree insuree)
         {
-            using (InsuranceEntities db = new InsuranceEntities())
-            {
                 var dateOfBirth = insuree.DateOfBirth;
                 var carYear = insuree.CarYear;
                 var carModel = insuree.CarModel;
@@ -184,7 +182,6 @@ namespace CarInsurance.Controllers
                 }
 
                 return (quote);
-            }
 
         }
        
